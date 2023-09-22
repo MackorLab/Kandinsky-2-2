@@ -1,0 +1,6 @@
+accelerate==0.23.0
+diffusers==0.21.2
+gradio==3.44.4
+torch==2.0.0
+torchvision==0.15.1
+transformers==4.33.2
