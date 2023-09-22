@@ -12,7 +12,8 @@ import spaces
 import torch
 from diffusers import KandinskyV22Pipeline, KandinskyV22PriorPipeline
 
-DESCRIPTION = "# Kandinsky 2.2"
+DESCRIPTION = "# DIAMONIK7777 - Kandinsky 2.2"
+DESCRIPTION += "\n<p>Running on CPU 🥶 This demo does not work on CPU.</p>"
 if not torch.cuda.is_available():
     DESCRIPTION += "\n<p>Running on CPU 🥶 This demo does not work on CPU.</p>"
 
